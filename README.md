@@ -1,7 +1,7 @@
 # SWYNEX-Exploratory-Data-Analysis
 Task-2 Exploratory Data Analysis of Cafe Sales Transactions using Microsoft Excel
 
-###Overview
+### Overview
 Performed Exploratory Data Analysis (EDA) on 10,000 cafe sales transactions using Microsoft Excel to understand sales performance, item-wise revenue, transaction patterns, payment methods, order locations, and monthly revenue trends.
 
 ### Analysis Performed
