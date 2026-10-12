@@ -12,8 +12,8 @@ Performed Exploratory Data Analysis (EDA) on 10,000 cafe sales transactions usin
 - Analyzed monthly revenue trends using summary tables and charts.
 
 ### Key Insights
-- Salad generated the highest revenue among the eight items at ₹19,170.
-- June recorded the highest monthly revenue at ₹7,359, while February recorded the lowest at ₹6,652.
+- Salad generated the highest revenue among the eight items at 19,170.
+- June recorded the highest monthly revenue at 7,359, while February recorded the lowest at 6,652.
 - Payment method information was missing in 3,178 transactions.
 - Location information was missing in 3,961 transactions.
 - Coffee had the highest transaction count, while Tea had the lowest among the eight items.
